@@ -76,8 +76,3 @@ scripts/
 ## 🧠 Author Notes
 
 This project serves as a comprehensive demonstration of data warehousing principles and SQL-based ETL pipelines, showcasing both the technical and business aspects of modern data architecture.
-
----
-
-📌 **Tip:** Run each layer in sequence:  
-**Bronze → Silver → Gold** for proper end-to-end pipeline setup.
